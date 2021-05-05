@@ -11,9 +11,5 @@ To develop this project, I have mostly used these technologies:
 However, the software design is more important here, we can implement it in any language. 
 I will upload the software methodology soon on Youtube with explaination, please subscribe if you are interested. 
 
-These two projects in this repo are most important projects. 
-https://github.com/IRobotizeInternet/Facebook/tree/master/Robotize/Robotize.BLL
-https://github.com/IRobotizeInternet/Facebook/tree/master/RobotizeToolbox
-
 Please note the script written to share knowledge of advanced methods and techniques to design large-scale automation projects. Do not use this script for any kind of web scrapping
 or in a manner that violates Facebook policies. 
