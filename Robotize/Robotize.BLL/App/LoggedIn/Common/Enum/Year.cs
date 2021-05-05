@@ -1,5 +1,4 @@
 ﻿using Robotize.BLL.Resources;
-using Robotize.BLL.Resources;
 using RobotizeToolbox.CustomAttributes;
 
 namespace RobotizeFacebook.App
