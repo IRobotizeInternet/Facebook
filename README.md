@@ -7,7 +7,6 @@ The project is built using below technologies:
 * CSharp
 * Javascript
 * Powershell
-* Python
 
 However, the software design is more important here, you can implement it in any language you wish.
 
