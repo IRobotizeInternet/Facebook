@@ -1,1 +1,0 @@
-﻿Complete documentation of the WebDriver API for .NET can be found here https://www.selenium.dev/selenium/docs/api/dotnet/index.html
