@@ -1,6 +1,7 @@
 # Facebook
-One of the largest software automation open source project. #Facebook 
-After successfully develpoing and implementing software automation methodology to handle large-scale enterprise solution in many of our project solution. We have decided to automate entire Facebook as an example and share new and improved ways of automating large projects.
+Software automation open source project of Facebook using [Advanced POM](https://github.com/IRobotizeInternet/AdvancedPOM)
+
+After successfully develpoing and implementing software automation methodology to handle large-scale enterprise solution in many of our projects, we have decided to automate entire Facebook as an example and share new and improved ways of automating large projects.
 
 The project is built using below technologies: 
 * Selinium
