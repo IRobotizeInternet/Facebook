@@ -1,0 +1,563 @@
+[
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/IListItem.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/IListItem.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/IListItem.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/BaseDOMObject.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/BaseDOMObject.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/BaseDOMObject.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Button.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Button.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Button.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/ButtonImage.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/ButtonImage.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/ButtonImage.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Checkbox.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Checkbox.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Checkbox.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/FileUploader.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/FileUploader.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/FileUploader.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Label.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Label.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Label.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/RadioButton.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/RadioButton.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/RadioButton.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/ScrollControl.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/ScrollControl.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/ScrollControl.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/TextBox.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/TextBox.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/TextBox.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/CustomAttributes/LocalizedDescriptionAttribute.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/CustomAttributes/LocalizedDescriptionAttribute.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/CustomAttributes/LocalizedDescriptionAttribute.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/DTO/DTOFriends.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/DTO/DTOFriends.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/DTO/DTOFriends.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Enum/ScrollDirection.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Enum/ScrollDirection.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Enum/ScrollDirection.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/Acts.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/Acts.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/Acts.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/EnumExt.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/EnumExt.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/EnumExt.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/ExtendBy.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/ExtendBy.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/ExtendBy.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/JscriptExecutor.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/JscriptExecutor.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/JscriptExecutor.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/RemoteWebDriverExtension.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/RemoteWebDriverExtension.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/RemoteWebDriverExtension.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Extensions/WebElements.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Extensions/WebElements.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Extensions/WebElements.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/Editor.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/Editor.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/Editor.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IFeedContainer.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IFeedContainer.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IFeedContainer.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IHeaderNavigation.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IHeaderNavigation.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IHeaderNavigation.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/ILeftNavigation.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/ILeftNavigation.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/ILeftNavigation.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IPage.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IPage.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Components/Eidtor/IPage.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Combobox.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Combobox.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Combobox.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Dropdown.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Dropdown.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/Dropdown.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/DropdownWithEnum.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/DropdownWithEnum.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/DropdownWithEnum.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/IDropdownElement.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/IDropdownElement.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/Dropdown/IDropdownElement.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerButton.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerButton.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerButton.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerDiv.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerDiv.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/EventTriggerDiv.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/Hyperlink.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/Hyperlink.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/Controls/TriggerControls/Hyperlink.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+},
+
+{
+    "type": "createFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/RobotizeToolbox.AssemblyInfo.cs"
+},
+{
+    "type": "openFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/RobotizeToolbox.AssemblyInfo.cs"
+},
+{
+    "type": "typeTextFromFile",
+    "path": "/RobotizeToolbox/obj/Debug/netstandard2.0/RobotizeToolbox.AssemblyInfo.cs"
+},
+{
+    "type": "wait",
+    "delay": 10000
+}
+]
